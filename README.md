@@ -17,3 +17,10 @@ A simple project in whict users can register, login, logout, only when the users
      * check_password_hash
 * flask_sqlalchemy
 * flask_login 
+
+# Screenshots
+
+* Opening Window
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103064401/199497073-10a4bd5f-0c10-46eb-84ff-ae6d7c587d9e.png">
+
